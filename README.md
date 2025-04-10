@@ -1,2 +1,2 @@
 # Python-Data-Analysis-Practice
-Practice exercises for data anlysis in Python
+Practice exercises for data analysis in Python
